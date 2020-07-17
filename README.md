@@ -1,0 +1,2 @@
+Run as a Java Application, and call the rest API using HTTP GET at the url localhost:8080/getUsers
+This returns a list of users who are either from London, or whose current coordinates are within 50 miles of London (taken as 51.5074° N, 0.1278° W)
